@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2015\Projects\VCLPlayer\VCLPlayer\bin\Debug\VCLPlayer.exe
+c:\users\administrator\documents\visual studio 2015\Projects\VCLPlayer\VCLPlayer\bin\Debug\VCLPlayer.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\VCLPlayer\VCLPlayer\obj\Debug\VCLPlayer.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\VCLPlayer\VCLPlayer\obj\Debug\VCLPlayer.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\VCLPlayer\VCLPlayer\obj\Debug\VCLPlayer.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\VCLPlayer\VCLPlayer\obj\Debug\VCLPlayer.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\VCLPlayer\VCLPlayer\obj\Debug\VCLPlayer.exe
+c:\users\administrator\documents\visual studio 2015\Projects\VCLPlayer\VCLPlayer\obj\Debug\VCLPlayer.pdb
